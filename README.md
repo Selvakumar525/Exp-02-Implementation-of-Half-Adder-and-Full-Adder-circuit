@@ -36,6 +36,7 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+```python
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: SAELVA KUMAR A
@@ -58,16 +59,32 @@ output sum,carry;
 assign sum=((a^b)^c);
 assign carry=((a&b)|(b&c)|(c&a));
 endmodule
-~~~
 */
+```
 Logic symbol & Truthtable
 RTL realization
 
 ### Output:
 ### RTL
+### Half Adder:
+![image](https://user-images.githubusercontent.com/120643262/231696605-4c11e7d3-2195-43aa-8074-7484fa297509.png)
+### Full Adder:
+![image](https://user-images.githubusercontent.com/120643262/231697124-85c73d5a-c506-4898-8958-05ae84aad9cc.png)
+
 ### TIMING DIAGRAM
+### HALF ADDER:
+![image](https://user-images.githubusercontent.com/120643262/231697219-2f4784a6-3d47-4a32-91c4-75af7ad73c06.png)
+### FULL ADDER:
+![image](https://user-images.githubusercontent.com/120643262/231697580-973b8b06-eaa5-4fff-817d-e37d87154d9a.png)
+
 
 
 ### TRUTH TABLE 
+### HALF ADDER:
+![image](https://user-images.githubusercontent.com/120643262/231697816-135c0bad-116c-4faa-93a8-6da1dfedd4ff.png)
+
+### FULL ADDER:
+![image](https://user-images.githubusercontent.com/120643262/231698159-a406c659-7fc1-43ae-9a31-64bb4e18ab3c.png)
+
 
 ### Result:
