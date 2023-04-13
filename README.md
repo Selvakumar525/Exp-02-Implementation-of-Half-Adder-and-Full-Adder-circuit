@@ -85,6 +85,5 @@ RTL realization
 
 ### FULL ADDER:
 ![image](https://user-images.githubusercontent.com/120643262/231698159-a406c659-7fc1-43ae-9a31-64bb4e18ab3c.png)
-
-
 ### Result:
+Thus the half adder and full adder are studied and the truth table for different logic gates are verified.
